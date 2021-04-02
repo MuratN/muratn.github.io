@@ -12,9 +12,9 @@
 
 2. [https://muratn.github.io/react-typescript/](https://muratn.github.io/react-typescript/) - Еще один to do лист, в другом дизайне и уже типизированный.
 
-3. [https://muratn.github.io/kekstagram/src](https://muratn.github.io/kekstagram/) - учебный проект, в которм реализовано получение фотографий при помощи AJAX, а также применение различных эффектов к фотографиям.
+3. [https://muratn.github.io/kekstagram/](https://muratn.github.io/kekstagram/src) - учебный проект, в которм реализовано получение фотографий при помощи AJAX, а также применение различных эффектов к фотографиям.
 
-4. [https://muratn.github.io/code-and-magic/src](https://muratn.github.io/code-and-magic/) - учебый проект, в котором при изменении цвета куртки или глаз волшебника отображаются похожие на него волшебники, которые также получены при помощи AJAX.
+4. [https://muratn.github.io/code-and-magic/](https://muratn.github.io/code-and-magic/src) - учебый проект, в котором при изменении цвета куртки или глаз волшебника отображаются похожие на него волшебники, которые также получены при помощи AJAX.
 
 Примеры прежних работ по верстке:
 
