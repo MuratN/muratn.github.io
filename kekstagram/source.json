@@ -1,9 +1,4 @@
-{
-  "status": "ok",
-  "status_message": "Query was successful",
-  "data": {
-    "photos_count": 26,
-    "pictures": [
+[
       {
         "url": "photos/1.jpg",
         "likes": 8,
@@ -1305,5 +1300,3 @@
         "description": "Затусили с друзьями на море #laptevsea #north #northeastpassage"
       }
     ]
-  }
-}
