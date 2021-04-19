@@ -1,4 +1,5 @@
-[
+{
+    "pictures" [
     {
       "url": "photos/1.jpg",
       "likes": 8,
@@ -1300,3 +1301,4 @@
       "description": "Затусили с друзьями на море #laptevsea #north #northeastpassage"
     }
   ]
+}
